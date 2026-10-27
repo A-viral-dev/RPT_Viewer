@@ -1,0 +1,9 @@
+Report Generated On: 2026-04-06
+Page 1
+
+CustomerID   FirstName   LastName      Balance
+------------ ---------   ----------    -------
+1            Alice       Smith         150.00
+2            Bob         Johnson       23.50
+3            Carol       Williams      0.00
+4            Dave        Brown         -15.00

@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.pytest_cache/
+
+# Virtual environments
+.venv
+
+# NiceGUI per-user session state (regenerated at runtime)
+.nicegui/
+
+# Local-only tooling used to build the sanitised fixtures. Never publish it.
+anonymize_fixtures.py
+# Private identifiers that publish_public.ps1 refuses to publish.
+leak_patterns.txt
+server.log
+server.err.log
